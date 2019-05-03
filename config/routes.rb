@@ -1,4 +1,5 @@
 Jets.application.routes.draw do
+  post 'messages', to: 'messages#create'
   root "jets/public#show"
 
   # The jets/public#show controller can serve static utf8 content out of the public folder.
