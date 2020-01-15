@@ -2,6 +2,8 @@
 
 This example application combines the [icanhazdadjoke API](https://icanhazdadjoke.com/api) and [Twilio SMS](https://www.twilio.com/sms/api) using the [Jets framework](http://rubyonjets.com/) and [AWS Lambda](https://aws.amazon.com/lambda/).
 
+You can read about how it was built in the blog post [Serverless Ruby on AWS Lambda with the Jets framework](https://www.twilio.com/blog/serverless-ruby-on-aws-lambda-with-the-jets-framework)
+
 ## Running the application locally
 
 To run the application locally, follow these steps:
